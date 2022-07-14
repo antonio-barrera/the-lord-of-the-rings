@@ -1,3 +1,5 @@
+package entity;
+
 import util.Dice;
 
 public abstract class Beast extends Entity {

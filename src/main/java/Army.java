@@ -1,3 +1,5 @@
+import entity.Entity;
+
 public class Army {
     private int _length = 0;
     private Entity[] entities;

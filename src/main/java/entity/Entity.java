@@ -1,3 +1,5 @@
+package entity;
+
 public abstract class Entity {
     private String name;
     private int life;
@@ -51,7 +53,7 @@ public abstract class Entity {
 
     @Override
     public String toString() {
-        return "Entity{" +
+        return "entity.Entity{" +
                 "name='" + name + '\'' +
                 ", life=" + life +
                 '}';

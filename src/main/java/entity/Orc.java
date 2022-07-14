@@ -1,3 +1,5 @@
+package entity;
+
 public class Orc extends Beast {
     public Orc() {
         super(300);

@@ -1,3 +1,4 @@
+import entity.*;
 import util.Dice;
 
 public class Turn {
